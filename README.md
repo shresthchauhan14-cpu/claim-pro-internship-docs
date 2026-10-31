@@ -24,7 +24,12 @@ This repository serves as the official documentation archive for the **CLAIM PRO
 | Detail | Specification |
 | :--- | :--- |
 | **Student Name** | Shreshth Chauhan |
-| **Student Code** | DAS012321 |
+| **University Roll No.** | 2410030045 |
+| **Class Section** | 3CSE14 |
+| **Degree & Course** | B.Tech Computer Science & Engineering |
+| **Department** | School of Computer Science and Engineering |
+| **University** | IILM University, Greater Noida, UP |
+| **Internship Student Code** | DAS012321 |
 | **Internship ID** | 5696 |
 | **Portal Task ID** | #5110 |
 | **Certificate Number** | DAS-COMP-252/2026 |
@@ -74,11 +79,11 @@ claim-pro-internship-docs/
 ├── README.md                                  # Repository overview and documentation guide
 │
 ├── 01_Project_Report/
-│   └── PROJECT_REPORT_FINAL_COMPRESSED.pdf    # 19-page final technical project report (PDF, 3.01 MB)
+│   └── PROJECT_REPORT_FINAL_COMPRESSED.pdf    # 31-page academic internship project report (PDF, 2.44 MB)
 │
 ├── 02_Project_Presentation/
-│   ├── CLAIM_PRO_Internship_Presentation.pptx # 15-slide editable PowerPoint presentation (PPTX, 3.25 MB)
-│   └── CLAIM_PRO_Internship_Presentation.pdf  # 15-slide vector presentation export (PDF, 1.34 MB)
+│   ├── CLAIM_PRO_Internship_Presentation.pptx # 16-slide academic PowerPoint presentation (PPTX, 2.50 MB)
+│   └── CLAIM_PRO_Internship_Presentation.pdf  # 16-slide academic vector presentation export (PDF, 1.20 MB)
 │
 ├── 03_Certificates/
 │   └── shreshth__certificate.pdf              # Official certificate of internship completion (PDF, 734 KB)
@@ -93,9 +98,9 @@ claim-pro-internship-docs/
 
 All official internship submission documents are verified, intact, and directly accessible:
 
-- 📄 **[Download Final Project Report (PDF)](./01_Project_Report/PROJECT_REPORT_FINAL_COMPRESSED.pdf)** — Comprehensive 19-page technical report detailing architecture, testing, business logic, and screenshots.
-- 📊 **[Download Presentation Deck (PPTX)](./02_Project_Presentation/CLAIM_PRO_Internship_Presentation.pptx)** — 15-slide widescreen PowerPoint presentation with embedded actual screenshots and speaker notes.
-- 📑 **[View Presentation (PDF)](./02_Project_Presentation/CLAIM_PRO_Internship_Presentation.pdf)** — Vector PDF export of the complete 15-slide presentation.
+- 📄 **[Download Final Project Report (PDF)](./01_Project_Report/PROJECT_REPORT_FINAL_COMPRESSED.pdf)** — Comprehensive 31-page academic report with IILM University formatting, Candidate Declaration, Acknowledgement, Table of Contents, Certificate chapter, 52/52 test matrix, and 17 screenshots.
+- 📊 **[Download Presentation Deck (PPTX)](./02_Project_Presentation/CLAIM_PRO_Internship_Presentation.pptx)** — 16-slide academic widescreen PowerPoint presentation with IILM University branding, Roll No 2410030045, Section 3CSE14, verified screenshots, and speaker notes.
+- 📑 **[View Presentation (PDF)](./02_Project_Presentation/CLAIM_PRO_Internship_Presentation.pdf)** — Vector PDF export of the complete 16-slide academic presentation.
 - 🎓 **[Download Completion Certificate (PDF)](./03_Certificates/shreshth__certificate.pdf)** — Verified certificate issued by Data Alcott Systems (Certificate ID: `DAS-COMP-252/2026`).
 - 📝 **[Read Detailed Internship Metadata (MD)](./04_Internship_Details/INTERNSHIP_DETAILS.md)** — Registration numbers, dates, mentors, and deliverables breakdown.
 

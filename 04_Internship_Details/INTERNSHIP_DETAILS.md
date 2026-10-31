@@ -13,6 +13,12 @@
 | Attribute | Verified Value |
 | :--- | :--- |
 | **Student Name** | Shreshth Chauhan |
+| **University Roll Number** | 2410030045 |
+| **Class Section** | 3CSE14 |
+| **Degree & Program** | B.Tech Computer Science and Engineering |
+| **Academic Batch** | 2024–2028 (Session 2026–2027) |
+| **Department** | School of Computer Science and Engineering |
+| **University** | IILM University, Greater Noida, Uttar Pradesh |
 | **Student Code / Registration No.** | DAS012321 |
 | **Internship ID** | 5696 |
 | **Portal Task ID** | #5110 |
